@@ -3,7 +3,6 @@ I'm Currently working on Backend Skills + Ai, building structured project skelet
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mudassir.0e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiritomv95@gmail.com) 
-## Tech Stack
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/Django-005571?style=for-the-badge&logo=django) 
